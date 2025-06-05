@@ -1,3 +1,4 @@
+![Screenshot 2025-06-05 184843](https://github.com/user-attachments/assets/19204f5b-04a7-488c-bdca-f315119a2f28)
 
   
   
@@ -53,6 +54,7 @@ and many more, including code architecture and reusability.
 
 
 
+![Screenshot 2025-06-05 184908](https://github.com/user-attachments/assets/27a5794c-e87e-4a4f-a145-1b50ddb270d2)
 
 
 ## <a name="snippets">🕸️ Snippets</a>
